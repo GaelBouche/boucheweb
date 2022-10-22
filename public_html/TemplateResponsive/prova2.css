@@ -1,0 +1,26 @@
+
+@charset "UTF8";
+
+    nav {
+        
+        color: blue;
+    
+    }
+
+    section {
+        
+        color: green;
+        
+    }
+    
+    article {
+        
+        color: aqua;
+        
+    }
+    
+    p {
+        
+        color: red;
+                    
+    }
